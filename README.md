@@ -1,6 +1,10 @@
 # Basecamp 42SP
 
-Aqui estão um resumo das que eu tirei nas listas de exercícios e exames que fiz durante o Basecamp da 42SP.
+Resumo das notas que tirei nas listas de exercícios e exames que fiz durante o Basecamp da 42SP.
+
+O Basecamp rolou durante março/abril 2021.
+
+Consegui passar.
 
 |Nome da lista|Nota|
 |-------------|----|
